@@ -1,0 +1,10 @@
+# Mareal
+
+> Nabídky nemovitostí kanceláře Mareal.
+
+- Web: https://mareal.cz/
+
+## Nabídky (3)
+- Prodej bytu 2+1 96 m² — obec Zlín, 5 590 000 Kč: prodej-bytu-2-1-96-m2-1172762700/
+- Prodej rodinného domu 410 m², pozemek 1748 m² — Nedachlebice, 6 450 000 Kč: prodej-rodinneho-domu-410-m2-pozemek-1748-m2-1529299788/
+- Prodej rodinného domu 130 m², pozemek 1025 m² — Loučka, 4 400 000 Kč: prodej-rodinneho-domu-130-m2-pozemek-1025-m2-3000164428/
